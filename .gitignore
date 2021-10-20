@@ -1,0 +1,9 @@
+/interviewprep/.env
+/interviewprep/.env.local
+/interviewprep/docker.development.env
+/interviewprep/schema.json
+
+/scraper/__pycache__
+/scraper/env
+/scraper/samplecodechef.json
+/scraper/sampleleetcoderes.json
